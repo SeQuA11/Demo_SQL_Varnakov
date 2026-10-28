@@ -1,6 +1,6 @@
 # Demo_SQL_Varnakov
 
-Модуль 3 — база данных гостиницы `booking_41_varnakov` на PostgreSQL 18. Схема совпадает с ER-диаграммой из Demo_DB_Varnakov.
+База данных гостиницы `booking_41_varnakov` на PostgreSQL 18.
 
 | Папка | Содержимое |
 |---|---|
